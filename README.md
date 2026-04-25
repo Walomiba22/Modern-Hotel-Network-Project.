@@ -44,5 +44,3 @@ The network is distributed across three logical tiers (floors):
 ## 📊 Topology Diagram
 ![Network Topology](path/to/your/screenshot.png)
 
-## 📜 License
-This project is licensed under the MIT License.****
