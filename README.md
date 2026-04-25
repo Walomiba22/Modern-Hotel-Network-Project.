@@ -43,4 +43,4 @@ The network is distributed across three logical tiers (floors):
 
 ## 📊 Topology Diagram
 ![Network Topology](path/to/your/screenshot.png)
-
+use passwoord to enter ROUTER 1234 AND SWICH 12345 for all deviece
