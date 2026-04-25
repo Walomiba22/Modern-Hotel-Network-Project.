@@ -1,4 +1,5 @@
 # 🏨 Vic Modern Hotel: Enterprise Network Design
+#use passwoord to enter ROUTER 1234 AND SWICH 12345 for all deviece
 
 A comprehensive 3-story hotel network simulation featuring multi-layer segmentation, dynamic routing, and enterprise-grade security. Built and validated using **Cisco Packet Tracer**.
 
